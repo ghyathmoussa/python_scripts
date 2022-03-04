@@ -1,0 +1,6 @@
+- create server in digital ocean
+- connect by ssh
+- install elasticsearch in server
+- enable port 9200 for all by ufw enable
+- ufw allow 
+-  

@@ -1,0 +1,6 @@
+- broker = count of kafka server
+- zookepeer = adminstration of kafka server
+## To Do
+- look for kafka initilization
+- create kafka on server or cloud
+-
